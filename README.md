@@ -1,5 +1,5 @@
 # leaflet-control-geocoder-ors
-Leaflet Control Geocoder - Openrouteservice
+[Leaflet Control Geocoder](https://github.com/perliedman/leaflet-control-geocoder/) - [Openrouteservice](https://openrouteservice.org)
 
 ## Example
 ```
