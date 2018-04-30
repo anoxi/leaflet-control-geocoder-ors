@@ -13,7 +13,7 @@ new L.Control.Geocoder.Openrouteservice(options)
 L.Control.Geocoder.openrouteservice(options)
 ```
 
-## Options
+### Options
 
 | Option          |  Type            |  Default          | Description |
 | --------------- | ---------------- | ----------------- | ----------- |
@@ -22,7 +22,7 @@ L.Control.Geocoder.openrouteservice(options)
 | `suggest_timeout`       | Number          |  `2000` | Suggest request timeout in ms for auto completion (type ahead) feature|
 | `suggest_min_length`     | Number        | `3`           | Min string length for auto completion (type ahead) feature
 
-## Example
+### Example
 ```
 L.Routing.control({
       geocoder: L.Control.Geocoder.openrouteservice({
